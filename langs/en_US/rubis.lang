@@ -1,0 +1,40 @@
+# Dolibarr language file - en_US - products
+# For Rubis 4.0.2
+CHARSET=UTF-8
+#
+# Admin page
+#
+Rubis=Rubis Pack
+RubisSetup = Setup of Rubis
+Setup = Setup
+Settings = Settings
+SetupPage = Setup of Rubis
+RubisNoConfiguration = No setting in this version
+MonDolibarrPresent=Mon-Dolibarr present Rubis Pack
+
+#
+# Settings
+#
+RUBIS_SIGNATURE_AREA=Print space signature Ruby on quotes
+RUBIS_FOLD_MARK=Print fold mark
+MAIN_GENERATE_DOCUMENTS_SHOW_FOOT_DETAILS=Print company information at the bottom of page
+RUBIS_LOGO_RUBIS=Name specific logo file in the RUBIS quote (The picture must be present in the documents/mycompany/logos)
+RUBIS_LOGO_EDISON=Name specific logo file in the EDISON order (The picture must be present in the documents/mycompany/logos)
+RUBIS_LOGO_HOMARD=Name specific logo file in the HOMARD invoice (The picture must be present in the documents/mycompany/logos)
+RUBIS_DEPOSIT_COLOR=Color (RGB) of the deposit mentioned on RUBIS quotes (ex. Red = 200,0,0)
+
+#
+# About page
+#
+AboutRubis = About Rubis
+AboutPage = About Rubis :
+MyModuleAbout = About Rubis
+MyModuleAboutPage = About Rubis
+SupportDevelopment=This module is free, helping its development and its support
+
+#
+# ChangeLog page
+#
+ChangeLog=Upgrades
+Updates=Updates Rubis
+HistoryUpdates= History of updates

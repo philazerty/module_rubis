@@ -1,0 +1,44 @@
+# Dolibarr language file - nl_NL - Pack "RUBIS"
+CHARSET=UTF-8
+#
+# Admin page
+#
+Rubis=Pack Rubis
+RubisSetup = Configureren Rubis
+Setup = Omgeving
+Settings = Parameter
+SetupPage = Configureren Rubis
+RubisNoConfiguration = Pas de paramétrage dans cette version
+MonDolibarrPresent=Mijn Dolibarr-heden pak edities van "Rubis"
+
+#
+# Settings
+#
+RUBIS_SIGNATURE_AREA=Imprimer l'espace signature Rubis sur les devis
+RUBIS_FOLD_MARK=Imprimer le repère de pliage
+
+RUBIS_LOGO_RUBIS=Nom du fichier logo spécifique dans le devis client RUBIS</br><i>L'image doit être présente dans documents/mycompany/logos</i>
+RUBIS_LOGO_EDISON=Nom du fichier logo spécifique dans la commande client EDISON</br><i>L'image doit être présente dans documents/mycompany/logos)</i>
+RUBIS_LOGO_HOMARD=Nom du fichier logo spécifique dans la facture client HOMARD</br><i>L'image doit être présente dans documents/mycompany/logos)</i>
+RUBIS_HOMARD_MODE_TRAITE=Code du moyen de paiement pour édition de la traite dans HOMARD</br><i>Le mode doit être activé dans le dictionnaire</i>
+RUBIS_LOGO_BOURGOGNE=Nom du fichier logo spécifique dans la commande fournisseur BOURGOGNE</br><i>L'image doit être présente dans documents/mycompany/logos)</i>
+RUBIS_LOGO_SOPHIE=Nom du fichier logo spécifique dans la devis fournisseur SOPHIE</br><i>L'image doit être présente dans documents/mycompany/logos)</i>
+RUBIS_DEPOSIT_COLOR=Couleur (RVB) de la mention d'acompte sur les devis RUBIS</br><i>Ex. rouge = 200,0,0</i>
+MAIN_GENERATE_DOCUMENTS_SHOW_FOOT_DETAILS=Imprimer les coordonnées de l'entreprise en bas de page
+
+#
+# About page
+#
+AboutRubis = A Propos de Rubis
+AboutPage = A Propos de Rubis :
+MyModuleAbout = A Propos Rubis
+MyModuleAboutPage = A Propos Rubis
+SupportDevelopment=Ce module est gratuit, aidez son développement et son support
+
+#
+# ChangeLog page
+#
+ChangeLog=Evolutions
+Updates=Mises à jour de Rubis
+HistoryUpdates= Historique des mises à jour
+

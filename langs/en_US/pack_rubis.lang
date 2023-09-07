@@ -1,0 +1,41 @@
+# Dolibarr language file - Source file is en_US - propal
+
+### Descriptions ###
+PDFrubisDescription=Quote template with logo, zone signing sheets, folding mark and conditions (Pack Rubis)
+PDFedisonDescription=Order template with logo, landmark folding and conditions (Pack Rubis)
+PDFhomardDescription=Invoice template with logo, landmark folding and conditions (Pack Rubis)
+
+### Modèle Rubis ###
+GoodForAgreement=Good for agreement :
+ReturnSigned1=Please return signed, dated,
+ReturnSigned2=with company stamp.
+DateSigned=___ / ___ / ______
+PlaceSigned=From ___________________
+SignatureStamp=Stamp and customer's signature
+PaymentDepositValue=To confirm your order, thank you to adjust the calculated deposit, the sum of 
+PaymentDepositValue2= Euros
+
+### Modèle Edison ###
+
+### Modèle Homard ###
+##### LCR #####
+DocLCR1=Contre cette lettre de change
+DocLCR2=Stipulée sans frais
+DocLCR3=Veuillez payer la somme indiquée
+DocLCR4=Ci-dessous à l'ordre de :
+DocLCR5=Code Monnaie
+DocLCR6=Montant pour contrôle
+DocLCR7=Date de création
+DocLCR8=Echéance
+DocLCR9=LCR Seulement
+DocLCR10=Montant
+DocLCR11=Code établissement
+DocLCR12=Code guichet
+DocLCR13=N° de compte
+DocLCR14=Clé RIB
+DocLCR15=Domiciliation bancaire
+DocLCR16=Acceptation ou aval
+DocLCR17=du tiré
+DocLCR18=N° SIREN du tiré
+DocLCR19=Signature du tireur
+DocLCR20=Ne rien inscrire au dessous de cette ligne

@@ -1,0 +1,47 @@
+# Dolibarr language file - Source file is fr_FR - rubis
+
+### Descriptions ###
+PDFrubisDescription=Modèle de devis avec logo, zone d'émargement, repère pliage et CGV (Pack Rubis)
+PDFedisonDescription=Modèle de commande avec logo, repère de pliage et CGV (Pack Rubis)
+PDFhomardDescription=Modèle de facture avec logo, repère de pliage et CGV (Pack Rubis)
+PDFbeaujolaisDescription=Modèle de commande fournisseur avec images produits et CGA (Pack Rubis)
+PDFsophieDescription=Modèle de devis fournisseur/demande de prix avec CGA (Pack Rubis)
+PDFbourgogneDescription=Modèle de commande fournisseur avec CGA (Pack Rubis)
+
+### Modèle Rubis ###
+RubisGoodForAgreement=Bon pour accord :
+RubisReturnSigned1=À retourner signé, daté,
+RubisReturnSigned2=avec cachet de l'entreprise.
+RubisReturnSigned3=Mention manuscrite
+RubisReturnSigned4="Bon pour accord sur les conditions générales jointes"
+RubisDateSigned=Le ___ / ___ / ______
+RubisPlaceSigned=A ___________________
+RubisSignatureStamp=Cachet et signature du client
+RubisPaymentDepositValue=Pour valider votre commande, merci de régler l'acompte calculé, soit la somme de 
+RubisPaymentDepositValue2= Euros
+
+### Modèle Edison ###
+
+### Modèle Homard ###
+##### Traite #####
+HomardLettreLCR=Madame, Monsieur,<br/><br/>Pour régler par traite la facture référencée ci-dessus, merci de compléter la lettre de change ci-dessous et de nous la retourner dans les meilleurs délais.<br/><br/>Nous restons à votre disposition pour toute information complémentaire.<br/>Cordialement.<br/><br/>Le service comptabilité.
+HomardDocLCR1=Contre cette lettre de change
+HomardDocLCR2=Stipulée sans frais
+HomardDocLCR3=Veuillez payer la somme indiquée
+HomardDocLCR4=Ci-dessous à l'ordre de :
+HomardDocLCR5=Code Monnaie
+HomardDocLCR6=Montant pour contrôle
+HomardDocLCR7=Date de création
+HomardDocLCR8=Echéance
+HomardDocLCR9=LCR Seulement
+HomardDocLCR10=Montant
+HomardDocLCR11=Code établissement
+HomardDocLCR12=Code guichet
+HomardDocLCR13=N° de compte
+HomardDocLCR14=Clé RIB
+HomardDocLCR15=Domiciliation bancaire
+HomardDocLCR16=Acceptation ou aval
+HomardDocLCR17=du tiré
+HomardDocLCR18=N° SIREN du tiré
+HomardDocLCR19=Signature du tireur
+HomardDocLCR20=Ne rien inscrire au dessous de cette ligne

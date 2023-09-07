@@ -1,0 +1,45 @@
+# Dolibarr language file - Source file is nl_NL - rubis
+
+### Descriptions ###
+PDFrubisDescription=Modèle de devis avec logo, zone d'émargement, repère pliage et CGV (Pack Rubis)
+PDFedisonDescription=Modèle de commande avec logo, repère de pliage et CGV (Pack Rubis)
+PDFhomardDescription=Modèle de facture avec logo, repère de pliage et CGV (Pack Rubis)
+PDFbeaujolaisDescription=Modèle de commande fournisseur avec images produits et CGA (Pack Rubis)
+PDFsophieDescription=Modèle de devis fournisseur/demande de prix avec CGA (Pack Rubis)
+PDFbourgogneDescription=Modèle de commande fournisseur avec CGA (Pack Rubis)
+
+### Modèle Rubis ###
+GoodForAgreement=Overeengekomen en ondertekend:
+ReturnSigned1=Terug te keren ondertekend en gedateerd,
+ReturnSigned2=met een stempel van het bedrijf.
+DateSigned=Op ___ / ___ / ______
+PlaceSigned=In ___________________
+SignatureStamp=Stempel en handtekening van de klant
+PaymentDepositValue=Om uw bestelling te bevestigen, dank aan de berekende betaling aan te passen, de som van 
+PaymentDepositValue2= Euro
+
+### Modèle Edison ###
+
+### Modèle Homard ###
+##### Traite #####
+LettreLCR=Madame, Monsieur,<br/><br/>Pour régler par traite la facture référencée ci-dessus, merci de compléter la lettre de change ci-dessous et de nous la retourner dans les meilleurs délais.<br/><br/>Nous restons à votre disposition pour toute information complémentaire.<br/>Cordialement.<br/><br/>Le service comptabilité.
+DocLCR1=Contre cette lettre de change
+DocLCR2=Stipulée sans frais
+DocLCR3=Veuillez payer la somme indiquée
+DocLCR4=Ci-dessous à l'ordre de :
+DocLCR5=Code Monnaie
+DocLCR6=Montant pour contrôle
+DocLCR7=Date de création
+DocLCR8=Echéance
+DocLCR9=LCR Seulement
+DocLCR10=Montant
+DocLCR11=Code établissement
+DocLCR12=Code guichet
+DocLCR13=N° de compte
+DocLCR14=Clé RIB
+DocLCR15=Domiciliation bancaire
+DocLCR16=Acceptation ou aval
+DocLCR17=du tiré
+DocLCR18=N° SIREN du tiré
+DocLCR19=Signature du tireur
+DocLCR20=Ne rien inscrire au dessous de cette ligne
